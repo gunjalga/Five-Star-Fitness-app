@@ -1,16 +1,13 @@
 # five_star_fitness
 
-A new Flutter project.
+This a flutter application to manage membership of gym members with some additional features like appointment booking, timetable and attendance marking.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repo
+2. Run flutter pub get
+3. Run flutter run lib/main.dart
 
-A few resources to get you started if this is your first Flutter project:
+## View ScreenShots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Deployed application:https://play.google.com/store/apps/details?id=com.fivestarfitness.five_star_fitness&pcampaignid=web_share
