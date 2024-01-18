@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "854050667887",
+    "project_id": "fivestar-fitness-1666f",
+    "storage_bucket": "fivestar-fitness-1666f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854050667887:android:7096d59f89a2f5e84b7c9a",
+        "android_client_info": {
+          "package_name": "com.fivestarfitness.five_star_fitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854050667887-u0lq6iiitg9eeqpbndtt0p7hfgc4244g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fivestarfitness.five_star_fitness",
+            "certificate_hash": "2762ead6e19ccf8881cf4f1073cc94f659650f2c"
+          }
+        },
+        {
+          "client_id": "854050667887-scfd65tmc5ru6go3ktafg62b46ggarul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC6UJr49v57sVunChzHxoYM8vjexo-9as"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854050667887-scfd65tmc5ru6go3ktafg62b46ggarul.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "854050667887-36ibvau8eac2evgq4bnaklca52c0lb46.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fivestarfitness.fiveStarFitness"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
